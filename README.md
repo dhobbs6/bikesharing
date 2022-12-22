@@ -1,7 +1,7 @@
-# Bikesharing
+# **Bikesharing**
 An analysis of NYC CitiBike bikesharing data
 
-## Overview
+## **Overview**
 My Tableau story can be found [at this link](https://public.tableau.com/app/profile/dillon.hobbs6519/viz/NYCCitiBikeAnalysis_16717250060600/Story1)
 
 The Purpose of this analysis is to analyze and display data from CitiBike NYC, in order to create a visual presentation for investors looking to start a similar business venture in Des Moines, Iowa. This analysis helps answer key questions such as: 
@@ -10,7 +10,7 @@ The Purpose of this analysis is to analyze and display data from CitiBike NYC, i
 - How is bike usage broken down among men and women?
 - Which day of the week is most popular for bike usage?
 
-## Results
+## **Results**
 
 
 
@@ -44,9 +44,11 @@ The above image essentially shows everything the previous image showed except it
 ![5](https://user-images.githubusercontent.com/112899813/209227310-c83db6bc-16b0-46b8-9735-faecf71339c6.png)
 
 The above image essentially reinforces the male-dominated biking usage trend that we have been noting. The new bit of information offered by this heatmap shows a breakdown based on user type as well. We can see that the userbase is heavily dominated by male, subscribing bikers
+***
 
+## **Summary**
 
-
+In conclusion we can affirm, given the data, that the male biking market is a reliable one. As far as when we can expect this market to show up, this would generally be your morning commutes(6AM-9AM) and your evening commutes(4PM-8PM), with your Wednesday except in the evenings. As far as further data that I would pursue, I would break some map data down further and see which specific streets see the highest usage. This way I could report this information to investors with the possibility that they would be interested in sticking a bike repair shop near that street. Everyone needs repairs eventually, and if these specific streets get high traffic, this would make for a helpful and profitable bike repair shop. Lastly, I would try and gather data on why women are biking far less than men. Perhaps gathering some survey data on this issue would help. If there was a way to boost the female biking market that would be important data to collect and present to investors.  
 
 
 
