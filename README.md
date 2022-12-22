@@ -2,7 +2,7 @@
 An analysis of NYC CitiBike bikesharing data
 
 ## **Overview**
-My Tableau story can be found [at this link](https://public.tableau.com/app/profile/dillon.hobbs6519/viz/NYCCitiBikeAnalysis_16717250060600/Story1)
+My Tableau story can be found [here](https://public.tableau.com/app/profile/dillon.hobbs6519/viz/NYCCitiBikeAnalysis_16717250060600/Story1)
 
 The Purpose of this analysis is to analyze and display data from CitiBike NYC, in order to create a visual presentation for investors looking to start a similar business venture in Des Moines, Iowa. This analysis helps answer key questions such as: 
 
