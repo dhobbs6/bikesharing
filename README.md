@@ -12,4 +12,5 @@ The Purpose of this analysis is to analyze and display data from CitiBike NYC, i
 
 ## Results
 
+***
 ![](bikesharing/Photos_for_Deliverable_2/1.png)
